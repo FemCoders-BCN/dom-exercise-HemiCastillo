@@ -1,0 +1,20 @@
+{
+  "name": "dom-exercise-hemicastillo",
+  "version": "1.0.0",
+  "description": "Este repositorio nos servirá como base para conocer los diferentes tipos de DOM que tenemos en JavaScript y construir de tal forma un proyecto que podría ser real. También, además de la explicación recibida en clase, las coder deberán realizar una refactorización del código que tenga después de la explicación y la realización de los test de cada función.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0",
+    "jsdom": "^23.0.1"
+  }
+}
